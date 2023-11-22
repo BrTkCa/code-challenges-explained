@@ -1,2 +1,7 @@
-# code-challenges-explained
-Code Challenges Explained: A curated collection of LeetCode challenges with detailed solutions and explanations for enhanced learning and reference.
+# LeetCode Challenges
+
+This repository contains solutions for LeetCode challenges. Each challenge is contained in its own folder and subfolder.
+
+## Table of Contents
+
+- [Two Sum](./challenges/two-sum/README.md)
